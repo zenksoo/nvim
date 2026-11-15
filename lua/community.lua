@@ -12,4 +12,6 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   { import = "astrocommunity.colorscheme.dracula-nvim" },
+  { import = "astrocommunity.colorscheme.vim-moonfly-colors" },
+  { import = "astrocommunity.colorscheme.onedark" },
 }
