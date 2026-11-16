@@ -4,14 +4,13 @@
 
 ---@type LazySpec
 return {
-  "AstroNvim/astrocommunity",
-  { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.pack.cpp" },
-  { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
-  { import = "astrocommunity.colorscheme.gruvbox-nvim" },
-  { import = "astrocommunity.colorscheme.dracula-nvim" },
-  { import = "astrocommunity.colorscheme.vim-moonfly-colors" },
-  { import = "astrocommunity.colorscheme.onedark" },
+    "AstroNvim/astrocommunity",
+    { import = "astrocommunity.pack.lua" },
+    { import = "astrocommunity.pack.python" },
+    { import = "astrocommunity.pack.cpp" },
+    { import = "astrocommunity.colorscheme.catppuccin" },
+    { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+    { import = "astrocommunity.colorscheme.gruvbox-nvim" },
+    { import = "astrocommunity.colorscheme.dracula-nvim" },
+    { import = "astrocommunity.colorscheme.vim-moonfly-colors" },
 }
